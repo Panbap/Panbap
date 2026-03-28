@@ -25,7 +25,7 @@
  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚
 ```
 
-> *❝ Có những đoạn code mình không tối ưu vì mình không muốn xoá đi những điều mình từng thấy đẹp, không phải vì deadline❞*
+> *❝ Có những đoạn code mình không tối ưu vì mình không muốn xoá đi những điều mình từng thấy đẹp❞*
 
 ```
  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚  ✦  ˚ ༘  ⋆｡˚
@@ -74,10 +74,10 @@ const pan: Developer = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1a2e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8d4f5?style=for-the-badge&logo=typescript&logoColor=1a1a2e)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-d4f0f5?style=for-the-badge&logo=tailwind-css&logoColor=1a1a2e)
 ![React](https://img.shields.io/badge/React-c8edf7?style=for-the-badge&logo=react&logoColor=1a1a2e)
 ![Python](https://img.shields.io/badge/Python-c5d8f5?style=for-the-badge&logo=python&logoColor=1a1a2e)
 ![Next.js](https://img.shields.io/badge/Next.js-f0e6f6?style=for-the-badge&logo=next.js&logoColor=1a1a2e)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-d4f0f5?style=for-the-badge&logo=tailwind-css&logoColor=1a1a2e)
 
 <br/>
 
